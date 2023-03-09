@@ -1,4 +1,6 @@
 # Research-Methods
+About
+https://bookdown.org/becerra_je/ResearchMethods/index.html
 
 Golden Rectangle
 
@@ -25,3 +27,5 @@ r2 = r1Phi
 https://www.calculatoratoz.com/en/diagonal-of-golden-rectangle-calculator/Calc-28799#UserLogPanel
 
 https://www.omnicalculator.com/math/golden-ratio
+
+
